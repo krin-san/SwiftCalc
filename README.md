@@ -1,4 +1,4 @@
 SwiftCalc
 =========
 
-Simple and robust calculator written on Swift
+A simple calculator written on Swift
